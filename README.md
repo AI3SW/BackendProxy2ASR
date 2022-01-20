@@ -1,5 +1,6 @@
-# BackendProxy2ASR
- Backend service for ASR project
+# cny_dotnet
+
+Backend service for CNY ASR project written using the .NET framework.
  
 ## BackEndProxy.Tests
 * Tests code
