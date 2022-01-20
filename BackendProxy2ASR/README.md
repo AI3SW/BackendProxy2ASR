@@ -153,14 +153,10 @@ A light-weight windows-based client simluator can be found [here](https://github
  * Change `url` in `Main` to correct Backend Proxy address and port
  * Build solution and run
 
-## ASR Engine Simulator
+## Dummy ASR Engine
 
-An ASR Engine simulator implemented in Python can be found at this [repository](https://github.com/kw01sg/websocket).
-
-## Reporting
-
-A web application used for simple statistics reporting of the `asr_audio_stream_info` table in the database is available at this repository: [usage_api](https://github.com/kw01sg/usage_api)
+A dummy ASR Engine implemented in Python can be found at this [repository](https://github.com/AI3SW/dummy_asr).
 
 ## Database
 
-A PostgreSQL database for this application is setup using docker in another code repository [here](https://github.com/kw01sg/ai_toolbox_db).
+A PostgreSQL database for this application is setup using docker in another code repository [here](https://github.com/AI3SW/ai_toolbox_db).

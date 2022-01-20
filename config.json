@@ -22,8 +22,8 @@
     "Auth": {
         "ToAuthenticate": true,
         "AuthMethod": "auth0",
-        "Auth0Domain": "dev-pjwmc6ay.us.auth0.com",
-        "Audience": "ai3-asr"
+        "Auth0Domain": "<Auth0Domain>",
+        "Audience": "<Audience>"
     },
     "Serilog": {
         "Using": [
